@@ -1,0 +1,34 @@
+.Form1{
+    text-align: center;
+    border: 1px solid black;
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+}
+.form2{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin:10px 500px 10px 500px;
+    padding: 20px 10px;
+    background-color: rgb(194, 243, 79);
+}
+input{
+    padding: 10px ;
+    margin: 10px 50px 10px 50px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+body{
+    /* margin: 50px; */
+    margin: 30px 100px 30px 100px;
+}
+button{
+    padding: 2px 15px;
+    background-color: rgb(97, 97, 241);
+    color: whitesmoke;
+    border-radius: 5px ;
+}
+button:hover{
+    color: blue;
+    background-color: aliceblue;
+}
